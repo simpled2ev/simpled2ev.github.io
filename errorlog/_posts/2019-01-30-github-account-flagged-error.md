@@ -1,12 +1,12 @@
 ---
 layout: post
-title: [ Github ] 'Your account has been flagged.' 해결방법
+title: [ GitHub ] 'Your account has been flagged.' 해결방법
 author: author1
 description: >
   Your account has been flagged.
 canonical_url: https://simpled2ev.github.io/errorlog/2019-01-30-github-account-flagged-error/
 ---
-# [ Github ] 'Your account has been flagged.' 해결방법
+# [ GitHub ] 'Your account has been flagged.' 해결방법
 ## 1. 'Your account has been flagged.' 원인
 깃허브 블로그를 생성하기 위해 로그인하였더니 화면 상단에 아래와 같은 내용이 나왔다.  
 깃허브 계정을 만들고 오랜시간 사용을 안해서 뜨는 메세지인 것 같다.  
@@ -17,7 +17,7 @@ canonical_url: https://simpled2ev.github.io/errorlog/2019-01-30-github-account-f
 > If you believe this is a mistake, contact support to have your account status reviewed.  
 
 ## 2. 해결방법
-<https://github.com/contact> 에 접속하여 계정을 풀어달라고 보내야한다.  
+<https://github.com/contact> 에 접속하여 계정을 풀어달라고 해야한다.  
 <br>
 구글링을 해보니 어떤 분이 메일 내용을 올려놔서 조금 수정하여 보냈다.  
 문의할 내용을 적고, **'Send request'** 버튼을 누르면된다.  
@@ -37,6 +37,7 @@ canonical_url: https://simpled2ev.github.io/errorlog/2019-01-30-github-account-f
 <br>
 <br>
 오후 3시에 메일을 보냈고, 오후 7시에 답장이왔다. 대략 4시간 정도 걸린다.  
+깃허브에 다시 로그인하면 경고창이 안뜨는 것을 확인할 수 있다.
 아래 내용은 깃허브에서 보내준 메세지이다.  
 
 > Hi there,  
