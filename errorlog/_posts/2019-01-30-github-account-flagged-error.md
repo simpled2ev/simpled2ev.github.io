@@ -3,8 +3,7 @@ layout: post
 title: [ Github ] 'Your account has been flagged.' 해결방법
 author: author1
 description: >
-  github-account-flagged-error
-hide_description: true
+  Your account has been flagged.
 canonical_url: https://simpled2ev.github.io/errorlog/2019-01-30-github-account-flagged-error/
 ---
 # [ Github ] 'Your account has been flagged.' 해결방법
@@ -37,8 +36,7 @@ canonical_url: https://simpled2ev.github.io/errorlog/2019-01-30-github-account-f
 
 <br>
 <br>
-오후 3시에 메일을 보냈고, 오후 7시에 답장이왔다.  
-대략 4시간 정도 걸린다.  
+오후 3시에 메일을 보냈고, 오후 7시에 답장이왔다. 대략 4시간 정도 걸린다.  
 아래 내용은 깃허브에서 보내준 메세지이다.  
 
 > Hi there,  
