@@ -8,7 +8,7 @@ order: 4
 Email: simple_0520@naver.com
 
 ## github
-https://github.com/simpled2ev/
+<https://github.com/simpled2ev/>
 
 ## Projects
 1. project1
