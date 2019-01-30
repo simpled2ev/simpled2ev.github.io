@@ -4,7 +4,8 @@ order: 4
 ---
 
 # About
-## Lee Yeong A
+## Yeong A Lee
+Email: simple_0520@naver.com
 
 ## github
 https://github.com/simpled2ev/

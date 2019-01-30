@@ -37,7 +37,7 @@ canonical_url: https://simpled2ev.github.io/errorlog/2019-01-30-github-account-f
 <br>
 <br>
 오후 3시에 메일을 보냈고, 오후 7시에 답장이왔다. 대략 4시간 정도 걸린다.  
-깃허브에 다시 로그인하면 경고창이 안뜨는 것을 확인할 수 있다.
+깃허브에 다시 로그인하면 경고창이 안뜨는 것을 확인할 수 있다.  
 아래 내용은 깃허브에서 보내준 메세지이다.  
 
 > Hi there,  
