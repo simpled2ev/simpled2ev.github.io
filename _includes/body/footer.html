@@ -1,5 +1,5 @@
 {% if site.copyright.size > 0 or site.legal.size > 0 or site.hydejack.advertise %}
-<footer role="contentinfo">
+<footer role="contentinfo" style="test-align:right;">
   <hr/>
   {% if site.copyright.size > 0 %}
     <p><small class="copyright">{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
@@ -12,7 +12,7 @@
     {% endfor %}
     </small></nav>
   {% endif %}
-  <p><small>Powered by <a class="external" href="https://hydejack.com/">Hydejack</a> v<span id="_version">8.1.1</span></small></p>
+  <p><code>Powered by <a class="" href="https://simpled2ev.github.io/">simpled2ev</a></code></p>
   <hr class="sr-only"/>
 </footer>
 {% endif %}
