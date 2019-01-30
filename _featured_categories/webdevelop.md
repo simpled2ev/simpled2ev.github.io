@@ -5,5 +5,5 @@ slug: webdevelop
 menu: true
 order: 1
 description: >
-  web develop menu
+  Web 개발 관련 정보
 ---
