@@ -4,7 +4,7 @@ title: Profile
 order: 4
 ---
 ## Yeong A Lee
-Email: simple_0520@naver.com
+- Email: simple_0520@naver.com
 
 ## Carrer
 - 2017.10.17~ Web Solution 개발
