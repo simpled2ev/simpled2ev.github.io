@@ -33,50 +33,50 @@ Username, Email, Password를 입력한 후, **'Sign up for GitHub'** 를 누른�
 <br>
 
 <div style="width: 100%">
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup1.JPG)
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup1.JPG">
   </div>
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup2.JPG)
-  </div>
-</div>
-<div style="width: 100%">
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup3.JPG)
-  </div>
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup4.JPG)
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup2.JPG">
   </div>
 </div>
 <div style="width: 100%">
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup5.JPG)
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup3.JPG">
   </div>
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup6.JPG)
-  </div>
-</div>
-<div style="width: 100%">
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup7.JPG)
-  </div>
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup8.JPG)
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup4.JPG">
   </div>
 </div>
 <div style="width: 100%">
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup9.JPG)
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup5.JPG">
   </div>
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup10.JPG)
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup6.JPG">
   </div>
 </div>
 <div style="width: 100%">
-  <div style="width: 50%">
-    ![screenshot](/assets/img/blog/post-2019-01-31/git-setup11.JPG)
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup7.JPG">
   </div>
-  <div style="width: 50%">
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup8.JPG">
+  </div>
+</div>
+<div style="width: 100%">
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup9.JPG">
+  </div>
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup10.JPG">
+  </div>
+</div>
+<div style="width: 100%">
+  <div style="width: 50%; float:left;">
+    <img src="/assets/img/blog/post-2019-01-31/git-setup11.JPG">
+  </div>
+  <div style="width: 50%; float:left;">
   </div>
 </div>
 
