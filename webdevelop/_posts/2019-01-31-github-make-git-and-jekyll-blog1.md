@@ -59,15 +59,11 @@ Git 설치 사이트에 접속하면 자동으로 설치파일이 다운된다.
 
 
 <br>
-설치가 완료되면, **'Git Bash'** 라는 프로그램을 실행한다.
-![screenshot](/assets/img/blog/post-2019-01-31/git-bash1.JPG)  
-
-<br>
-위와 같은 화면이 나오면, 아래 명령어를 입력한다.  
+설치가 완료되면, **'Git Bash'** 라는 프로그램을 실행하고, 아래 명령어를 입력한다.  
 > git config --global user.name "깃허브유저네임"  
 > git config --global user.email "깃허브이메일"  
 
-![screenshot](/assets/img/blog/post-2019-01-31/git-bash2.JPG)  
+<img src="/assets/img/blog/post-2019-01-31/git-bash2.JPG">
 
 <br>
 
