@@ -1,5 +1,10 @@
+table {
+  width: 100%;
+  margin-left: 0px;
+}
+
 table td {
-  background-color: white;
-  border: none;
-  padding : 0px;
+  background-color: white !important;
+  border: none !important;
+  padding : 0px !important;
 }

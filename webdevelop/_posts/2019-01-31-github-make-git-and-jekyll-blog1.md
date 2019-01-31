@@ -32,9 +32,9 @@ Username, Email, Password를 입력한 후, **'Sign up for GitHub'** 를 누른�
 **Next>** 를 계속 누르고, **Install>** 을 누르면 설치가 완료된다.  
 <br>
 
-<table style="width: 100%; margin-left: 0px;">
+<table>
   <tr>
-    <td style="border:none;background-color:white;padding:0px;"> <img src="/assets/img/blog/post-2019-01-31/git-setup1.JPG"> </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup1.JPG"> </td>
     <td> <img src="/assets/img/blog/post-2019-01-31/git-setup2.JPG"> </td>
   </tr>
   <tr>
