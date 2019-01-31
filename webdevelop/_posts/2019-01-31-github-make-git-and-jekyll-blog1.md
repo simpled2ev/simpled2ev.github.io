@@ -22,12 +22,12 @@ Username, Email, Password를 입력하고, **'Sign up for GitHub'** 를 누른�
 <br>
 
 ## 2. Git 설치
-Git 설치 사이트에 접속하면 자동으로 설치파일이 다운된다.
+Git 설치 사이트에 접속하면 자동으로 설치파일이 다운된다.  
 <https://git-scm.com/download/win>  
 ![screenshot](/assets/img/blog/post-2019-01-31/git-site.JPG)  
 <br>
 설치 과정에서 따로 설정해야할 것은 없으므로 **Default값** 으로 진행한다.  
-**Next>** 를 누르고, **Install>** 을 누르면 설치가 완료된다.  
+**Next>** 를 누르고, **Install** 을 누르면 설치가 완료된다.  
 <br>
 
 <table>
@@ -84,7 +84,7 @@ Git 설치 사이트에 접속하면 자동으로 설치파일이 다운된다.
 <br>
 Hydejack 관련 GitHub 문서에 들어오게 된다.  
 Hydejack 소스코드를 내 Repository에 복사하여 수정할 것이다.   
-**Fork** 를 누른다.  
+**'Fork'** 를 누른다.  
 ![screenshot](/assets/img/blog/post-2019-01-31/jekyll-themes3.JPG)  
 
 <br>

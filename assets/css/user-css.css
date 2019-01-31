@@ -8,3 +8,7 @@ table td {
   border: none !important;
   padding : 0px !important;
 }
+
+p img {
+  border: 1px solid var(--border-color);
+}
