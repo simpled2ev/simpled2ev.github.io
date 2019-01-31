@@ -2,6 +2,7 @@
 layout: post
 title: [ GitHub ] 'Your account has been flagged.' 해결방법
 author: author1
+date: 2019-01-30 12:16:01 -0600
 description: >
   Your account has been flagged.
 #canonical_url: https://simpled2ev.github.io/errorlog/2019-01-30-github-account-flagged-error/
