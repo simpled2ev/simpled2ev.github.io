@@ -31,53 +31,31 @@ Username, Email, Password를 입력한 후, **'Sign up for GitHub'** 를 누른�
 설치할 때 뜨는 것 중에서 따로 설정해야할 것은 없으므로 **Default값** 으로 진행한다.  
 **Next>** 를 계속 누르고, **Install>** 을 누르면 설치가 완료된다.  
 <br>
-<table style="width: 100%">
+
+<table style="width: 100%; margin-left: 0px;">
   <tr>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup1.JPG">
-    </td>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup2.JPG">
-    </td>
+    <td style="border:none;background-color:white;padding:0px;"> <img src="/assets/img/blog/post-2019-01-31/git-setup1.JPG"> </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup2.JPG"> </td>
   </tr>
   <tr>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup3.JPG">
-    </td>
-    <td style="width: 50%; float:left;">
-      <img src="/assets/img/blog/post-2019-01-31/git-setup4.JPG">
-    </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup3.JPG"> </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup4.JPG"> </td>
   </tr>
   <tr>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup5.JPG">
-    </td>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup6.JPG">
-    </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup5.JPG"> </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup6.JPG"> </td>
   </tr>
   <tr>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup7.JPG">
-    </td>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup8.JPG">
-    </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup7.JPG"> </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup8.JPG"> </td>
   </tr>
   <tr>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup9.JPG">
-    </td>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup10.JPG">
-    </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup9.JPG"> </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup10.JPG"> </td>
   </tr>
   <tr>
-    <td>
-      <img src="/assets/img/blog/post-2019-01-31/git-setup11.JPG">
-    </td>
-    <td>
-    </td>
+    <td> <img src="/assets/img/blog/post-2019-01-31/git-setup11.JPG"> </td>
+    <td> </td>
   </tr>
 </table>
 
