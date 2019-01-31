@@ -7,7 +7,7 @@ order: 4
 ## Yeong A Lee
 Email: simple_0520@naver.com
 
-## github
+## GitHub
 <https://github.com/simpled2ev/>
 
 ## Projects
