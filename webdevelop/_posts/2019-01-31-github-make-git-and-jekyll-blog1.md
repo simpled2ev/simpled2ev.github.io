@@ -6,8 +6,9 @@ description: >
   make github blog using github page and jekyll
 ---
 # [ GitHub ] GitHub, Jekyll을 이용한 블로그 제작 (1)
-> 구글링을 하다보면 https://devtest/github.io 형식으로 되어있는 사이트들을 본 적이 있을 것이다.  
-> GitHub Page, Jekkyll을 이용하여 개발 블로그를 생성할 것이다.  
+> 개발을 하다가 에러나 모르는 것이 생겨 구글링을 하다보면
+> https://devtest/github.io 형식으로 되어있는 사이트들을 본 적이 있을 것이다.  
+> 이 포스팅에서는 GitHub Page, Jekyll을 이용하여 개발 블로그를 만드는 방법을 알아볼 것이다.
 
 ## 1. GitHub 회원가입 및 로그인
 깃허브 계정이 있어야 블로그를 제작할 수 있으므로 회원가입을 미리 해야한다.  
@@ -31,17 +32,17 @@ Username, Email, Password를 입력한 후, **'Sign up for GitHub'** 를 누른�
 **Next>** 를 계속 누르고, **Install>** 을 누르면 설치가 완료된다.  
 <br>
 
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup1.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup2.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup3.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup4.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup5.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup6.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup7.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup8.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup9.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup10.JPG)  
-![screenshot](/assets/img/blog/post-2019-01-31/git-setup11.JPG)  
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup1.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup2.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup3.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup4.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup5.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup6.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup7.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup8.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup9.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup10.JPG){: class="width50perleft" }
+![screenshot](/assets/img/blog/post-2019-01-31/git-setup11.JPG){: class="width50perleft" }
 <br>
 설치가 완료되면, Git Bash라는 프로그램이 생길 것이다.  
 깃허브에 로그인되어있는 상태로 Git Bash를 실행하면 된다.  
