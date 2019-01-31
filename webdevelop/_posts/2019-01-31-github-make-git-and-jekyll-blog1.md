@@ -6,7 +6,7 @@ description: >
   make github blog using github page and jekyll
 ---
 # [ GitHub ] GitHub, Jekyll을 이용한 블로그 제작 (1)
-> 개발을 하다가 에러나 모르는 것이 생겨 구글링을 하다보면
+> 개발을 하다가 에러나 모르는 것이 생겨 구글링을 하다보면  
 > https://devtest/github.io 형식으로 되어있는 사이트들을 본 적이 있을 것이다.  
 > 이 포스팅에서는 GitHub Page, Jekyll을 이용하여 개발 블로그를 만드는 방법을 알아볼 것이다.
 
