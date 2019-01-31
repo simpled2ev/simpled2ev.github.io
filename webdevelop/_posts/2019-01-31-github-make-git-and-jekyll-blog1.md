@@ -31,7 +31,7 @@ Username, Email, Password를 입력한 후, **'Sign up for GitHub'** 를 누른�
 설치할 때 뜨는 것 중에서 따로 설정해야할 것은 없으므로 **Default값** 으로 진행한다.  
 **Next>** 를 계속 누르고, **Install>** 을 누르면 설치가 완료된다.  
 <br>
-
+<p>
 <div style="width: 100%">
   <div style="width: 50%; float:left;">
     <img src="/assets/img/blog/post-2019-01-31/git-setup1.JPG">
@@ -79,7 +79,7 @@ Username, Email, Password를 입력한 후, **'Sign up for GitHub'** 를 누른�
   <div style="width: 50%; float:left;">
   </div>
 </div>
-
+</p>
 
 
 <br>
