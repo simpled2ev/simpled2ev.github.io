@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Error Log
-slug: errorlog
+#slug: errorlog
 menu: true
 order: 2
 description: >

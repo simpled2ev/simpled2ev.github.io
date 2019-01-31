@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Web Develop
-slug: webdevelop
+#slug: webdevelop
 menu: true
 order: 1
 description: >
