@@ -11,28 +11,31 @@ description: >
 > Atom 에디터를 이용하여 블로그를 수정하는 방법  
 
 ## 1. Git Clone
-저번에 복사해온 Jekyll파일들을 수정하기위해 내 컴퓨터에 먼저 다운을 받아놓을 것이다.  
+저번에 복사해온 Jekyll파일들을 수정하기위해서는, 먼저 내 컴퓨터에 소스를 받고 관리해야한다.  
 **'Git Bash'** 를 실행하고, 작업폴더를 생성한다.  
 
-> cd c:
-> mkdir workspace
-> cd workspace
-> mkdir simpled2ev
-> cd simpled2ev
-> git clone http://github.com/simpled2ev/simpled2ev.github.io
-> ls
+> cd c:  
+> mkdir workspace  
+> cd workspace  
+> mkdir simpled2ev  
+> cd simpled2ev  
+> git clone http://github.com/simpled2ev/simpled2ev.github.io  
+> ls  
 
-**'mkdir'** 은 폴더를 만드는 명령어이고,  
-**'git clone' ** 은 깃 저장소를 복사해오는 명령어이고,  
-**'ls'** 는 현재 디렉토리에 있는 파일과 폴더를 보여주는 명령어이다.  
+<br>
+
+[ 명령어 정리 ]
+1. **'mkdir'** : 폴더를 만드는 명령어  
+2. **'git clone'** : 깃 저장소를 복사해오는 명령어  
+3. **'ls'** : 현재 디렉토리에 있는 파일과 폴더를 보여주는 명령어  
 
 명령어를 모두 실행하면, 아래와 같이 모든 파일이 복사된 것을 볼 수 있다.  
 ![screenshot](/assets/img/blog/post-2019-02-01/git-clone1.JPG)  
 
 
 ## 2. Atom 에디터 설치
-에디터는 평소 자신이 잘 쓰고 있는 에디터를 사용하면된다.  
-에디트플러스, Blackets 등이 있다면 그것을 사용해도 괜찮다.  
+Atom이 아니더라도, 평소 선호하는 에디터를 사용하면된다.  
+Edit Plus, Blackets 등이 있다면 그것을 사용해도 괜찮다.  
 작성자는 Atom을 이용하여 파일을 수정할 것이다.  
 Atom 사이트에 접속하여 **'Download'** 를 클릭한다.  
 <https://atom.io/>  
@@ -51,8 +54,9 @@ Atom 사이트에 접속하여 **'Download'** 를 클릭한다.
 ## 3. Jekyll 관련 파일
 파일 확장자는 .md, .css, .js, .html, .yml 등이있다.  
 .css, .js, .html 확장자는 웹 개발을 하다보면 보게되는데, .md와 .yml확장자는 아마 낯설 것이다.  
-1. .md : 파일형식은 yyyy-mm-dd-title.md로 작성한다. 주로 블로그 포스팅 내용을 Markdown으로 작성한다.  
-2. .yml : 설정파일을 작성한다. 주로 수정하는 파일은 _config.yml 이다.  
+1. .md : 주로 블로그 포스팅 내용을 작성할 때 생성하는 파일이다.
+파일 제목은 yyyy-mm-dd-title.md의 형식으로 작성하며, 내용은 Markdown 형식으로 작성한다.  
+2. .yml : 설정파일을 작성한다.
 
 주로 수정하게 되는 파일과 폴더 몇가지를 설명해보자면 아래와 같다.  
 1. _config.yml : 블로그의 제목, 폰트, 주소 등의 정보를 담고있는 파일  
@@ -61,8 +65,8 @@ Atom 사이트에 접속하여 **'Download'** 를 클릭한다.
 
 
 ## 4. _config.yml 수정
-간단히 웹페이지의 타이틀을 수정해볼 것이다.  
-우선, Atom에디터에서 _config.yml 파일을 연다.  
+간단히 웹페이지의 title과 tagline을 수정해볼 것이다.  
+우선 Atom에디터에서 _config.yml 파일을 연다.  
 title과 tagline을 찾아 자신이 원하는 문구로 바꾸고, **'Ctrl + S'** 로 파일을 저장한다.  
 > title: Yeong A Lee  
 > tagline: Web Developer  
@@ -82,7 +86,7 @@ title과 tagline을 찾아 자신이 원하는 문구로 바꾸고, **'Ctrl + S'
 
 만약 git push 명령어를 처음 실행하게된다면, GitHub에 로그인하라는 창이 뜰 것이다.  
 로그인을 완료하면 git push가 성공적으로 실행될 것이다.  
-화면에 바로 반영되지는 않고, 30초-1분 뒤에 반영된다.  
+화면에 바로 반영되지는 않고, 30초~1분 뒤에 반영된다.  
 조금 기다린 뒤에 https://simpled2ev.github.io 로 들어가면 변경된 화면을 확인할 수 있다.  
 
 ![screenshot](/assets/img/blog/post-2019-02-01/web-page1.JPG)  
