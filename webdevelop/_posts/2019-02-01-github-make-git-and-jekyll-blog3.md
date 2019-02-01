@@ -34,10 +34,11 @@ Next> 를 누르고, Install 을 누르면 설치가 완료된다.
 
 ## 2. Blog Post 올리기
 Post 파일은 '메뉴/_post/' 경로에 올려야한다.  
-작성자의 경우, 처음에 'hydejack/_post' 라는 폴더가 있었는데, 폴더명을 'webdevelop/_post' 로 변경했다.  
+작성자의 경우 'hydejack/_post' 라는 폴더가 있었는데, 폴더명을 'webdevelop/_post' 로 변경했다.  
 폴더명은 자신의 블로그에 넣을 메뉴로 만들어주면된다.  
-파일을 만들 디렉토리에서 오른쪽마우스를 클릭하고, **'new file'**을 누르면, 'Enter the path for new file'이라고 뜰 것이다.  
-파일명을 작성해야하는데, 포스트 파일의 이름은 **'yyyy-mm-dd-title.md'** 의 형식으로 맞추는 것이 좋다.   
+파일을 만들 디렉토리에서 오른쪽마우스를 클릭하고, **'new file'**을 누르면,  
+'Enter the path for new file'이라고 뜰 것이다.  
+포스팅할 파일의 이름은 **'yyyy-mm-dd-title.md'** 의 형식으로 맞추는 것이 좋다.   
 작성자는 아래와 같이 파일을 생성하였다.  
 
 ![screenshot](/assets/img/blog/post-2019-02-01/make-post1.JPG)  
