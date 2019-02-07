@@ -6,7 +6,7 @@ order: 4
 ## Yeong A Lee
 - Email: simple_0520@naver.com
 
-## Carrer
+## Career
 - 2017.10.17~ Web Solution 개발
 
 ## Technical Skills
