@@ -12,7 +12,7 @@ url:                   https://simpled2ev.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               ''
+baseurl:               '/'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -56,7 +56,7 @@ copyright:             >
 #     href:              /cookies-policy/
 
 # Format of the permalinks
-#permalink:             /:categories/:year-:month-:day-:title/
+permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
