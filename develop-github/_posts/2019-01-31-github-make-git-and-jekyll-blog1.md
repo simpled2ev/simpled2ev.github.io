@@ -4,6 +4,7 @@ author: author1
 title: [ GitHub ] GitHub, Jekyll을 이용한 블로그 제작 (1)
 description: >
   make github blog using github page and jekyll
+permalink: /develop-github/2019-01-31-github-make-git-and-jekyll-blog1.md
 ---
 # [ GitHub ] GitHub, Jekyll을 이용한 블로그 제작 (1)
 > GitHub Page, Jekyll을 이용하여 블로그를 만드는 방법
