@@ -2,7 +2,6 @@
 layout: post
 author: author1
 title: [ GitHub ] GitHub, Jekyll을 이용한 블로그 제작 (2)
-date: 2019-02-01 09:20:05 -0600
 description: >
   make github blog using github page and jekyll
 ---

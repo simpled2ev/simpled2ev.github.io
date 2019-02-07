@@ -1,7 +1,7 @@
 ---
 layout: list
 title: jQuery
-#slug: webdevelop
+slug: develop-jquery
 menu: true
 order: 2
 description: >
