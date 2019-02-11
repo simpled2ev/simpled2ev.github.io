@@ -10,29 +10,29 @@ description: >
 
 > Haroopad를 이용하여 블로그 포스트 올리는 방법
 
-## 1. Haroo Pad 설치
-GitHub Page와 Jekyll로 만든 블로그에서는 Markdown 형식으로 글을 써야한다.
-하루패드는 **Markdown 형식의 글을 쉽게 쓸 수 있도록 도와주는 편집기** 이다.
-하루패드 홈페이지에 접속하여 자신의 운영체제에 맞는 설치파일을 다운받는다.
-<http://pad.haroopress.com/user.html>
+## 1. Haroo Pad 설치  
+GitHub Page와 Jekyll로 만든 블로그에서는 Markdown 형식으로 글을 써야한다.  
+하루패드는 **Markdown 형식의 글을 쉽게 쓸 수 있도록 도와주는 편집기** 이다.  
+하루패드 홈페이지에 접속하여 자신의 운영체제에 맞는 설치파일을 다운받는다.  
+<http://pad.haroopress.com/user.html>  
 
-![screenshot](/assets/img/blog/post-2019-02-01/haroo-pad-setting1.JPG)  
+![screenshot](/assets/img/blog/post-2019-02-01/haroo-pad-setting1.JPG)   
 
-설치파일 다운로드가 완료되면, 'Haroopad-v0.13.1-win-x64.exe' 파일을 실행한다.
-설치 과정에서 따로 설정해야할 것은 없으므로 Default값 으로 진행한다.
-Next> 를 누르고, Install 을 누르면 설치가 완료된다.
-설치가 완료되면 시작화면에 'haroopad'라는 것이 생겼을 것이다. 더블클릭하여 실행한다.
-아래와 같은 화면이 보이면 성공한 것이다.
+설치파일 다운로드가 완료되면, 'Haroopad-v0.13.1-win-x64.exe' 파일을 실행한다.  
+설치 과정에서 따로 설정해야할 것은 없으므로 Default값 으로 진행한다.  
+Next> 를 누르고, Install 을 누르면 설치가 완료된다.  
+설치가 완료되면 시작화면에 'haroopad'라는 것이 생겼을 것이다. 더블클릭하여 실행한다.  
+아래와 같은 화면이 보이면 성공한 것이다.  
 
-![screenshot](/assets/img/blog/post-2019-02-01/haroo-pad-setting2.JPG)  
+![screenshot](/assets/img/blog/post-2019-02-01/haroo-pad-setting2.JPG)   
 
-마크다운을 처음 접하는 사람이라면, 화면 왼쪽 하단의 파란 아이콘을 클릭하여 도움을 받을 수 있다.
-마크다운을 작성하는 간단한 방법을 알려주는 도구이다. 포스팅 내용을 작성한다.
+마크다운을 처음 접하는 사람이라면, 화면 왼쪽 하단의 파란 아이콘을 클릭하여 도움을 받을 수 있다.  
+마크다운을 작성하는 간단한 방법을 알려주는 도구이다. 포스팅 내용을 작성한다.  
 
-![screenshot](/assets/img/blog/post-2019-02-01/haroo-pad-setting3.JPG)  
+![screenshot](/assets/img/blog/post-2019-02-01/haroo-pad-setting3.JPG)   
 
-## 2. Blog Post 올리기
-Post 파일은 '메뉴/_post/' 경로에 올려야한다.  
+## 2. Blog Post 올리기  
+Post 파일은 '메뉴/_post/' 경로에 올려야한다.   
 작성자의 경우 'hydejack/_post' 라는 폴더가 있었는데, 폴더명을 'webdevelop/_post' 로 변경했다.  
 폴더명은 자신의 블로그에 넣을 메뉴로 만들어주면된다.  
 파일을 만들 디렉토리에서 오른쪽마우스를 클릭하고, **'new file'**을 누르면,  
