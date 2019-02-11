@@ -91,7 +91,7 @@ Post 파일은 '메뉴/_post/' 경로에 올려야한다.
 > '>' 을 이용한 코드블럭  
 
 <br>
-3. 줄 삽입
+3. 줄 삽입  
 ```  
 * * *  
 ***  
@@ -103,13 +103,11 @@ Post 파일은 '메뉴/_post/' 경로에 올려야한다.
 
 <br>
 
-4. 이미지 삽입
+4. 이미지 삽입  
 ```   
 ![screenshot](/assets/img/blog/post-2019-02-01/make-post4.JPG)   
 ```   
 <br>
 
 5. 링크 삽입  
-```   
-<http://simpled2ev.github.io/>  
-```   
+> <http://simpled2ev.github.io/>  
