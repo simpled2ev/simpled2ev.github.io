@@ -8,7 +8,7 @@ description: >
 
 # [ GitHub ] GitHub, Jekyll을 이용한 블로그 제작 (3)
 
-> Haroopad를 이용하여 블로그 포스트 올리는 방법 (작성중)
+> Haroopad를 이용하여 블로그 포스트 올리는 방법
 
 ## 1. Haroo Pad 설치
 GitHub Page와 Jekyll로 만든 블로그에서는 Markdown 형식으로 글을 써야한다.
@@ -106,11 +106,3 @@ Post 파일은 '메뉴/_post/' 경로에 올려야한다.
 ```   
 ![screenshot](/assets/img/blog/post-2019-02-01/make-post4.JPG)   
 ```   
-
-
-5. 링크 삽입  
-<br>
-```
-<http://simpled2ev.github.io/>  
-```
-<http://simpled2ev.github.io/>  
