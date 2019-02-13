@@ -19,13 +19,16 @@ jQuery에서 자주 사용하는 Siblings는 자신의 형제 요소들을 찾�
 
 
 ## 예시  
-> <ul>   
->     <li>list item 1</li>   
->     <li>list item 2</li>   
->     <li class="third-item">list item 3</li>   
->     <li>list item 4</li>   
->     <li>list item 5</li>   
-> </ul>
+<code>
+<ul>   
+     <li>list item 1</li>   
+     <li>list item 2</li>   
+     <li class="third-item">list item 3</li>   
+     <li>list item 4</li>   
+     <li>list item 5</li>   
+</ul>
+</code>
+<br>
 
 이런 코드가 있을 때, 클래스가 'third-item'의 형제 요소를 찾으려고한다.  
 > $("li.third-item").siblings()
