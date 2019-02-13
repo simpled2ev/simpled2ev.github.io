@@ -12,3 +12,8 @@ table td {
 p img {
   border: 1px solid var(--border-color);
 }
+
+pre.highlight {
+  width: auto !important;
+  margin-left : 0px !important;
+}
