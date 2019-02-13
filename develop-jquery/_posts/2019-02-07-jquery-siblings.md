@@ -29,17 +29,23 @@ jQuery에서 자주 사용하는 Siblings는 자신을 제외한 형제 요소�
 
 이런 코드가 있을 때, 클래스가 'third-item'의 형제 요소를 찾으려고한다.  
 아래와 같이 작성한다면, list item1 부터 list item 5 까지 third-item을 제외하고 요소를 가져온다.  
-> $("li.third-item").siblings()
+```c
+$("li.third-item").siblings()
+```
 
 활용법은 다음과 같다.  
 ex 1. 'third-item'을 클릭했을 때, 다른 li들의 색상을 변경하는 법  
 
-> $(".third-item").click(function() {  
-> 	 $(this).siblings().css("background-color", "red");  
-> });
+```c
+$(".third-item").click(function() {  
+  $(this).siblings().css("background-color", "red");  
+});
+```
 
 ex 2. 'third-item'의 형제요소들의 개수를 가져오는 법  
-> $(".third-item").siblings().length
+```c
+$(".third-item").siblings().length
+```
 
 <br>
 
