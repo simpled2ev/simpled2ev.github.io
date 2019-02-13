@@ -13,13 +13,15 @@ description: >
 저번에 복사해온 Jekyll파일들을 수정하기위해서는, 먼저 내 컴퓨터에 소스를 받고 관리해야한다.  
 **'Git Bash'** 를 실행하고, 작업폴더를 생성한다.  
 
-> cd c:  
-> mkdir workspace  
-> cd workspace  
-> mkdir simpled2ev  
-> cd simpled2ev  
-> git clone http://github.com/simpled2ev/simpled2ev.github.io  
-> ls  
+```c
+cd c:  
+mkdir workspace  
+cd workspace  
+mkdir simpled2ev  
+cd simpled2ev  
+git clone http://github.com/simpled2ev/simpled2ev.github.io  
+ls  
+```
 
 <br>
 
@@ -67,8 +69,11 @@ Atom 사이트에 접속하여 **'Download'** 를 클릭한다.
 간단히 웹페이지의 title과 tagline을 수정해볼 것이다.  
 우선 Atom에디터에서 _config.yml 파일을 연다.  
 title과 tagline을 찾아 자신이 원하는 문구로 바꾸고, **'Ctrl + S'** 로 파일을 저장한다.  
-> title: Yeong A Lee  
-> tagline: Web Developer  
+
+```c
+title: Yeong A Lee  
+tagline: Web Developer  
+```
 
 파일이 수정되면, Atom에서 해당 파일만 색이 바뀌게 보일 것이다.  
 ![screenshot](/assets/img/blog/post-2019-02-01/atom-setting4.JPG)  
@@ -76,10 +81,12 @@ title과 tagline을 찾아 자신이 원하는 문구로 바꾸고, **'Ctrl + S'
 이제 수정된 파일을 깃허브에 올리는 작업을 해야한다.  
 **'Git Bash'** 를 실행하고, 작업 디렉토리로 이동한다.  
 
-> cd c:/workspace/simpled2ev/simpled2ev.github.io  
-> git add '_config.yml'  
-> git commit -m '수정한 내용을 기록'  
-> git push  
+```c
+cd c:/workspace/simpled2ev/simpled2ev.github.io  
+git add '_config.yml'  
+git commit -m '수정한 내용을 기록'  
+git push  
+```
 
 ![screenshot](/assets/img/blog/post-2019-02-01/git-commit1.JPG)  
 

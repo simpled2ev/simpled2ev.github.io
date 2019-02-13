@@ -46,13 +46,15 @@ Post 파일은 '메뉴/_post/' 경로에 올려야한다.
 완료되었으면, haroopad에서 작성한 글을 복사하여 파일에 붙여넣기한다.  
 포스팅 내용 맨 위에 아래 내용을 복사 붙여넣기한다.  
 
-> `---`  
-> layout: post  
-> author: author1  
-> title: [ GitHub ] GitHub, Jekyll을 이용한 블로그 제작 (3)  
-> date: 2019-02-01 09:20:05 -0600  
-> description: description 내용  
-> `---`  
+```c
+---   
+layout: post  
+author: author1  
+title: [ GitHub ] GitHub, Jekyll을 이용한 블로그 제작 (3)  
+date: 2019-02-01 09:20:05 -0600  
+description: description 내용  
+---  
+```
 
 1. author : 글 작성자의 프로필을 포스팅 하단에 적는 것. '_data/authors.yml' 에서 수정할 수 있다.  
 2. title : 해당 글의 포스팅 제목  
@@ -64,10 +66,12 @@ Post 파일은 '메뉴/_post/' 경로에 올려야한다.
 이제 작성한 파일을 git에 commit해야한다.  
 
 **'Git Bash'** 프로그램을 실행한다.  
-> cd c:/workspace/simpled2ev/simpled2ev.github.io/webdevelop/_posts  
-> git add '2019-02-01-github-make-git-and-jekyll-blog3.md'  
-> git commit -m 'add post'  
-> git push  
+```c
+cd c:/workspace/simpled2ev/simpled2ev.github.io/webdevelop/_posts  
+git add '2019-02-01-github-make-git-and-jekyll-blog3.md'  
+git commit -m 'add post'  
+git push  
+```
 
 ![screenshot](/assets/img/blog/post-2019-02-01/make-post3.JPG)  
 30초 ~ 1분 정도 기다리고 나서 사이트에 접속하면, 새로운 글이 생겼을 것이다.  
